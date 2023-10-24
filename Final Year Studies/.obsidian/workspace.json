@@ -4,22 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "646a1a75039baf49",
+        "id": "d80a034dc1789a61",
         "type": "tabs",
         "children": [
           {
-            "id": "f28a4e2bc20a6453",
+            "id": "88428ed5ee361b3f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6ee4f09cd9b1d6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSPC/Chapter 5/Monitors, Token-Passing, Mutual Exclusion, Deadlocks.md",
+                "file": "SEAM Pass Year MayJune 2023.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc7d9fe68dac12b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PYQ DSPC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66c43cb4e5ebee97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DPSC PYQ OCT 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "090ec193e8f3bb9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSPC PYQ MAY 2022.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSPC/Chapter 5/Monitors, Token-Passing, Mutual Exclusion, Deadlocks.md",
+                "file": "DSPC PYQ MAY 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSPC/Chapter 5/Monitors, Token-Passing, Mutual Exclusion, Deadlocks.md",
+                "file": "DSPC PYQ MAY 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSPC/Chapter 5/Monitors, Token-Passing, Mutual Exclusion, Deadlocks.md"
+                "file": "DSPC PYQ MAY 2022.md"
               }
             }
           }
@@ -147,44 +192,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f28a4e2bc20a6453",
+  "active": "090ec193e8f3bb9e",
   "lastOpenFiles": [
+    "DPSC PYQ OCT 2022.md",
+    "PYQ DSPC.md",
+    "DSPC PYQ MAY 2022.md",
+    "Pasted image 20231024003819.png",
+    "Pasted image 20231024003712.png",
+    "Pasted image 20231024003529.png",
+    "Pasted image 20231024003346.png",
+    "Pasted image 20231024003109.png",
+    "Pasted image 20231024002918.png",
+    "Pasted image 20231024002852.png",
+    "Pasted image 20231024002729.png",
+    "Pasted image 20231024002431.png",
+    "Pasted image 20231024001605.png",
+    "SEAM Pass Year MayJune 2023.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Pass Year HCI May 2023.md",
+    "Pass Year Question 2023 Jan.md",
+    "SEM/Chapter 4/Maintenance Models.md",
+    "FYP/Reverse Engineering/Credential Offer Details.md",
+    "FYP/Codebase/Snippets.md",
+    "FYP/Discoveries on API DOcs/Simplified Process Of Issue Credential.md",
+    "SEM/Chapter 3/Software System Evolution.md",
+    "SEM/Chapter 3",
+    "SEM/Chapter 4",
+    "FYP/Codebase",
+    "FYP/Reverse Engineering/Integration with the EHRM System from the Company.md",
+    "FYP/How to Connect to Your Virtual Machine.md",
+    "FYP/Reverse Engineering/Flow of Issuing an Credential.md",
+    "FYP/Reverse Engineering/Flow of Presenting Proof.md",
+    "FYP/Reverse Engineering/Handling API Request.md",
+    "SEM/Assignment Task 2/Requirements.md",
+    "SEM/Midterm Disscussion.md",
+    "DSPC/Chapter 5/Monitors, Token-Passing, Mutual Exclusion, Deadlocks.md",
+    "SEM/Assignment Task 2",
     "DSPC/Chapter 5/Token Passing Algorithms/Suzuki-Kasami Algorithm.md",
     "DSPC/Chapter 5/Token Passing Algorithms/Raymond Tree Algorithm.md",
-    "DSPC/Chapter 5/Monitors, Token-Passing, Mutual Exclusion, Deadlocks.md",
     "DSPC/Chapter 5/Token Passing Algorithms",
     "FYP/Discoveries on API DOcs/Connection Image URLS.md",
     "DSPC/Chapter 5",
-    "FYP/Discoveries on API DOcs/Simplified Process Of Issue Credential.md",
     "Untitled.canvas",
     "2023-08-14.md",
-    "FYP/Reverse Engineering/Flow of Issuing an Credential.md",
-    "FYP/Reverse Engineering/Integration with the EHRM System from the Company.md",
-    "FYP/Reverse Engineering/Handling API Request.md",
-    "FYP/Reverse Engineering/Flow of Presenting Proof.md",
-    "Pasted image 20230813031059.png",
     "FYP/Discoveries on API DOcs",
-    "FYP/How to Connect to Your Virtual Machine.md",
-    "Pasted image 20230808132534.png",
-    "DSPC/Chapter 3/Memory Management.md",
     "FYP/Reverse Engineering",
-    "SEM/Midterm Disscussion.md",
-    "Excalidraw/Drawing 2023-07-31 14.03.08.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-31 13.50.45.excalidraw.md",
     "Excalidraw",
-    "DSPC/Chapter 4/Mutual Exclusion and Critical Region.md",
-    "DSPC/Chapter 3",
-    "Untitled.md",
-    "SEM/Software System Evolution.md",
-    "DSPC/Chapter 4",
-    "CC/Assignment.md",
-    "FYP",
-    "CC",
-    "DSPC/Chapter 1/Distributed System.md",
-    "SEM",
-    "DSPC/Chapter 1/parallel processing.md",
-    "DSPC/Chapter 2/Inter-process Communicaiton.md",
-    "DSPC/Chapter 2/client-server, p2p.md",
-    "Chapter 1.md"
+    "DSPC/Chapter 3"
   ]
 }

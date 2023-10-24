@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Tokyo Night",
+  "cssTheme": "Catppuccin",
   "theme": "obsidian",
   "interfaceFontFamily": "",
-  "baseFontSize": 19,
+  "baseFontSize": 16,
   "textFontFamily": "Inter"
 }
